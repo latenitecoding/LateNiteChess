@@ -1,0 +1,11 @@
+[Event "Nebraska Class Championship"]
+[Site "lichess.org"]
+[Date "2024.02.03"]
+[Round "1"]
+[White "Solan, Nate"]
+[Black "Lang, JJ"]
+[Result "1-0"]
+[Orientation "white"]
+
+1. Nf3 {[%eval +0.29] } Nf6 2. g3 d5 3. Bg2 g6 4. c4 c6 5. b3 Bg7 6. Bb2 O-O 7. O-O a5 8. Nc3 Re8 9. d4 Bf5 10. e3 Ne4 11. Nh4 Nxc3 12. Bxc3 Be4 13. f3 Bf5 14. Nxf5 gxf5 15. Qc2 e6 16. Rad1 Nd7 17. e4 {[%eval +0.80] } f4!? {[%eval +1.33] }  (17... a4 {[%eval +0.70] }  ) 18. e5? {[%eval +0.37] Missed opportunity. It looks counterintuitive to double the pawns and open the g-file, but the pawn on f4 is safe to take. That doubled pawn can then further reinforce e5, so after something like c5-dxc5, the pawn on e5 remains protected.}  (18. gxf4 {[%eval +1.42] }  ) Nf8 19. Rfe1 Ng6 20. Bf1 Qg5 21. Qg2 c5 22. dxc5 dxc4 23. Bxc4 Nxe5 {[%eval +3.04] } 24. Bxe5? {[%eval +0.17] Missed an opportunity to win additional material with h4. The queen is tied to the defense of the knight. A direct attack on the queen, and she has no good squares to retreat to.}  (24. h4 {[%eval +3.37] }  Qf5 25. Rxe5 Bxe5 26. gxf4+ {This is one of white's hidden resources. If g7, g5, and g3 are cleared, then white has a discovered check. That seems like a difficult task, but black has no choice since the bishop on g7 and the queen on g5 are both tied to the defense of the same piece. h4 moves the queen. Rxe5 moves the bishop. White then has gxf4 to move the pawn with a discovered check.} Qg6 27. Bxe5 {[%eval +5.32] White has two pieces and a pawn for the rook.}) Bxe5 {[%eval +0.10] } 25. gxf4 Bxf4 26. Rd7 Rec8 27. Re4 Kf8 28. Qxg5 Bxg5 29. f4 Be7 30. f5 Bxc5+ 31. Kg2 Rd8 32. fxe6 fxe6 33. Rxh7 Rd2+ 34. Kh3 Rad8 35. Rf4+ Kg8 36. Rc7 R8d3+ 37. Bxd3 Rxd3+ 38. Kg4 Bd6 39. Rd7 Bxf4 40. Rxd3 Bxh2 41. Rd8+ Kf7 42. Rd7+ Kf6 43. Rxb7 {[%eval +5.51] } 1-0
+
